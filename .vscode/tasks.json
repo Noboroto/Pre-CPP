@@ -1,0 +1,36 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "type": "shell",
+            "label": "C++14 build file",
+            "command": "C:\\TDM-GCC-64\\bin\\g++.exe",
+            "args": [
+                "-g",
+                "-std=c++14",
+                "${file}",
+                "-pipe",
+                "-o",
+                "${fileDirname}\\${fileBasenameNoExtension}.exe",
+            ],
+            "options": {
+                "cwd": "C:\\TDM-GCC-64\\bin"
+            },
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        },
+        {
+            "type": "shell",
+            "label": "measure",
+            "command": "Measure-Command",
+            "args": [
+                "{",
+                "${fileDirname}\\${fileBasenameNoExtension}.exe",
+                "}"
+            ],
+            "problemMatcher": []
+        }
+    ]
+}
