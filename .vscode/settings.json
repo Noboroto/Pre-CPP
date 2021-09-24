@@ -1,6 +1,12 @@
 {
     "C_Cpp.errorSquiggles": "Enabled",
     "terminal.explorerKind": "integrated",
+    "files.exclude": {
+        "**/.gitattributes": true,
+        "**/*.exe": true,
+        "**/*.rar": true,
+        "**/*.zip": true
+      },
     "files.associations": {
         "iostream": "cpp",
         "fstream": "cpp",
