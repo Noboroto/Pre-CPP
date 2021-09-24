@@ -1,5 +1,5 @@
 # Pre-CPP
- 
+
 #### Bước 1: Cài [TDM-GCC-64 build 10.3.0](https://github.com/jmeubank/tdm-gcc/releases/download/v10.3.0-tdm64-2/tdm64-gcc-10.3.0-2.exe)
 
 1. Đầu tiên các bạn sẽ thấy màn hình như trong ảnh, bấm nút **Create**:
@@ -26,3 +26,5 @@ Sau khi chọn xong các bạn bấm **Install** để cài đặt
 
 #### Bước 2: Cài [Extension C++ cho Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools)
 #### Bước 3: Tải [tại đây](https://github.com/Noboroto/Pre-CPP/archive/refs/heads/master.zip), giải nén và copy thư mục `.vscode`vào thư mục code
+
+### Nếu bạn không debug được bạn có thể cài thêm [Visual C++ Redistributable 2015->2019](https://aka.ms/vs/16/release/vc_redist.x64.exe)
