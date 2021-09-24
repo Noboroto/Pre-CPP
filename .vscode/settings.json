@@ -1,7 +1,7 @@
 {
     "C_Cpp.errorSquiggles": "Enabled",
     "terminal.explorerKind": "integrated",
-        "files.associations": {
+    "files.associations": {
         "iostream": "cpp",
         "fstream": "cpp",
         "cstdio": "cpp",
