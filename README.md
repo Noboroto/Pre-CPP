@@ -27,4 +27,4 @@ Sau khi chọn xong các bạn bấm **Install** để cài đặt
 #### Bước 2: Cài [Extension C++ cho Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools)
 #### Bước 3: Tải [tại đây](https://github.com/Noboroto/Pre-CPP/archive/refs/heads/master.zip), giải nén và copy thư mục `.vscode`vào thư mục code
 
-### Nếu bạn không debug được bạn có thể cài thêm [Visual C++ Redistributable 2015->2019](https://aka.ms/vs/16/release/vc_redist.x64.exe)
+#### Nếu bạn không debug được bạn có thể cài thêm [Visual C++ Redistributable 2015->2019](https://aka.ms/vs/16/release/vc_redist.x64.exe)
