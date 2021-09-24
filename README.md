@@ -1,4 +1,6 @@
-# Pre-CPP
+# Pre-CPP cho Visual Studio Code Windows
+
+Tải Visual Studio Code tại [đây](https://code.visualstudio.com/download)
 
 #### Bước 1: Cài [TDM-GCC-64 build 10.3.0](https://github.com/jmeubank/tdm-gcc/releases/download/v10.3.0-tdm64-2/tdm64-gcc-10.3.0-2.exe)
 
