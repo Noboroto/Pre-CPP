@@ -2,6 +2,8 @@
 
 Tải Visual Studio Code tại [đây](https://code.visualstudio.com/download)
 
+Hướng dẫn gồm 
+
 #### Bước 1: Cài [TDM-GCC-64 build 10.3.0](https://github.com/jmeubank/tdm-gcc/releases/download/v10.3.0-tdm64-2/tdm64-gcc-10.3.0-2.exe)
 
 1. Đầu tiên các bạn sẽ thấy màn hình như trong ảnh, bấm nút **Create**:
@@ -27,9 +29,48 @@ Sau khi chọn xong các bạn bấm **Install** để cài đặt
 ![04](https://user-images.githubusercontent.com/48942146/134611361-4b02eee3-1698-4a9d-8c2a-a3f0818d78f8.png)
 
 #### Bước 2: Cài [Extension C++ cho Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools)
-#### Bước 3: Tải [tại đây](https://github.com/Noboroto/Pre-CPP/archive/refs/heads/master.zip), giải nén và copy thư mục `.vscode`vào thư mục code
+#### Bước 3: Tải [tại đây](https://github.com/Noboroto/Pre-CPP/archive/refs/heads/master.zip), giải nén
+#### Bước 4: Tạo thư mục chứa code, như trong hình, thư mục của mình có tên CPP, các bạn có thể đặt tên bất kì nhưng **HẠN CHẾ SỬ DỤNG NGÔN NGỮ KHÁC TIẾNG ANH**
 
-**SAU KHI CÀI ĐẶT CÁC BẠN CÓ THỂ NHẤN PHÍM F5 TRONG FILE CODE CPP ĐỂ BUILD VÀ DEBUG**
+![06](https://user-images.githubusercontent.com/48942146/135854262-e12047dd-7d0d-4252-86e6-ec69718f3812.png)
+
+### Bước 5: Copy thư mục `.vscode` từ thư mục vừa giải nén đưa vào bên trong thư mục CPP vừa tạo
+
+![15](https://user-images.githubusercontent.com/48942146/135854947-6471e889-907d-4fcc-830e-5dec2cae6590.png)
+![07](https://user-images.githubusercontent.com/48942146/135854976-6e7c33f5-af1d-4251-927d-2ae1be939e0d.png)
+
+### Bước 6: Mở Visual Studio Code lên, chọn File > Open Folder
+
+![08](https://user-images.githubusercontent.com/48942146/135856096-ed76a69e-d6f2-4154-a632-5de1be2ba445.png)
+
+### Bước 7: Chọn folder CPP vừa tạo (không double click) và chọn Select Folder
+
+![09_LI](https://user-images.githubusercontent.com/48942146/135856330-46f8837e-5f1b-499f-96f0-a7d7d7c2fbfc.jpg)
+
+### Bước 8: Chọn như trên ảnh 
+Chọn `Trust the authors of all file in the parent folder`
+Chọn `Yes, I trust the authors. Trust folder and enable all features`
+
+![10](https://user-images.githubusercontent.com/48942146/135856685-d77e3f77-ff9a-4d9d-8e91-4e0100301117.png)
+
+### Bước 9: Các bạn DOUBLE CLICK vào vùng trống (vùng tô xanh như hình) để tạo file code mới
+Đặt tên file code có dạng x.cpp
+VD: helloworld.cpp
+
+**Có thể bấm nút được khoanh màu xanh dương để tạo file mới**
+**Lưu ý không tạo file trong thư mục `.vscode`**
+
+![11_LI](https://user-images.githubusercontent.com/48942146/135857823-78577227-6aaf-4ba4-bcb4-a999d42153e8.jpg)
+
+### DEBUG TIME Bước 10: Các bạn chọn tab có biểu tượng như hình:
+
+![13](https://user-images.githubusercontent.com/48942146/135857384-9be86db4-6157-42bc-8edd-0cbde34d0a89.png)
+
+### Bước 11: Chọn BUILD AND DEBUG và bấm hình tam giác kế bên để chạy chương trình
+
+![14](https://user-images.githubusercontent.com/48942146/135857487-6465db2f-708b-4ef9-8e16-b14eb23856cc.png)
+
+**SAU KHI CÀI ĐẶT CÁC BẠN CÓ THỂ NHẤN PHÍM F5 TRONG FILE CODE CPP ĐỂ BUILD VÀ DEBUG** 
 
 #### Nếu bạn không debug được bạn có thể cài thêm [Visual C++ Redistributable 2015->2019](https://aka.ms/vs/16/release/vc_redist.x64.exe)
 
