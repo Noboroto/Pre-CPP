@@ -26,6 +26,8 @@ Hướng dẫn gồm
 
 Sau khi chọn xong các bạn bấm **Install** để cài đặt
 
+**Nếu lỡ có 1 file notepad được mở thì đừng ngại ngùng mà tắt nó đi**
+
 ![04](https://user-images.githubusercontent.com/48942146/134611361-4b02eee3-1698-4a9d-8c2a-a3f0818d78f8.png)
 
 #### Bước 2: Cài [Extension C++ cho Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools)
