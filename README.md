@@ -2,7 +2,7 @@
 
 Tải Visual Studio Code tại [đây](https://code.visualstudio.com/download)
 
-Hướng dẫn gồm 
+Hướng dẫn gồm 12 bước
 
 #### Bước 1: Cài [TDM-GCC-64 build 10.3.0](https://github.com/jmeubank/tdm-gcc/releases/download/v10.3.0-tdm64-2/tdm64-gcc-10.3.0-2.exe)
 
@@ -71,6 +71,10 @@ VD: helloworld.cpp
 ### Bước 11: Chọn BUILD AND DEBUG và bấm hình tam giác kế bên để chạy chương trình
 
 ![14](https://user-images.githubusercontent.com/48942146/135857487-6465db2f-708b-4ef9-8e16-b14eb23856cc.png)
+
+### Bước 12: Các bạn chọn Tab Terminal bên dưới để xem kết quả
+
+![16](https://user-images.githubusercontent.com/48942146/135867962-6060c1f6-9321-4ce7-a26e-e7c8e4fcd516.png)
 
 **SAU KHI CÀI ĐẶT CÁC BẠN CÓ THỂ NHẤN PHÍM F5 TRONG FILE CODE CPP ĐỂ BUILD VÀ DEBUG** 
 
