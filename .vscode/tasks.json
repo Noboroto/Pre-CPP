@@ -20,17 +20,6 @@
                 "kind": "build",
                 "isDefault": true
             }
-        },
-        {
-            "type": "shell",
-            "label": "measure",
-            "command": "Measure-Command",
-            "args": [
-                "{",
-                "${fileDirname}\\${fileBasenameNoExtension}.exe",
-                "}"
-            ],
-            "problemMatcher": []
         }
     ]
 }
