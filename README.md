@@ -2,6 +2,10 @@
 
 Tải Visual Studio Code tại [đây](https://code.visualstudio.com/download)
 
+Sau khi tải, nếu muốn các bạn có thể bật auto save bằng cách vào File > Auto Save
+
+![autosave](https://user-images.githubusercontent.com/48942146/139658430-14abf90b-1116-45cc-b0a5-69e34bac6587.png)
+
 Hướng dẫn gồm 12 bước
 
 #### Bước 1: Cài [TDM-GCC-64 build 10.3.0](https://github.com/jmeubank/tdm-gcc/releases/download/v10.3.0-tdm64-2/tdm64-gcc-10.3.0-2.exe)
