@@ -1,4 +1,5 @@
 {
+    "terminal.integrated.defaultProfile.windows": "Command Prompt",
     "C_Cpp.errorSquiggles": "Enabled",
     "terminal.explorerKind": "integrated",
     "files.exclude": {
