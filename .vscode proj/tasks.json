@@ -8,14 +8,14 @@
             "args": [
                 "-g",
                 "-std=c++11",
-                "*.cpp",
-                "*.h",
+                "**.cpp",
+                "**.h",
                 "-pipe",
                 "-o",
                 "${fileDirname}\\${fileBasenameNoExtension}.exe",
             ],
             "options": {
-                "cwd": "C:\\TDM-GCC-64\\bin"
+                "cwd": "${fileDirname}"
             },
             "group": {
                 "kind": "build",
