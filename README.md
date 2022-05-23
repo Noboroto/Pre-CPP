@@ -40,7 +40,13 @@ Sau khi chọn xong các bạn bấm **Install** để cài đặt
 
 ![06](https://user-images.githubusercontent.com/48942146/135854262-e12047dd-7d0d-4252-86e6-ec69718f3812.png)
 
-### Bước 5: Copy thư mục `.vscode` từ thư mục vừa giải nén đưa vào bên trong thư mục CPP vừa tạo
+
+### Bước 5: 
+
+Tại thư mục giải nén, bạn sẽ thấy 2 thư mục, 1 là `.vscode single file` - dùng để chạy chương trình chỉ có 1 file cpp, 1 là `.vscode proj` - dùng để chạy 
+chương trình có nhiều file .cpp và .h, thường được dùng làm đồ án
+
+Bạn chọn thư mục phù hợp với mục đích của mình, đổi tên thành `.vscode` và copy thư mục `.vscode` này từ thư mục vừa giải nén đưa vào bên trong thư mục CPP vừa tạo
 
 ![15](https://user-images.githubusercontent.com/48942146/135854947-6471e889-907d-4fcc-830e-5dec2cae6590.png)
 ![07](https://user-images.githubusercontent.com/48942146/135854976-6e7c33f5-af1d-4251-927d-2ae1be939e0d.png)
