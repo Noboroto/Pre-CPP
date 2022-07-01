@@ -42,7 +42,7 @@ Sau khi chọn xong các bạn bấm **Install** để cài đặt
 
 #### Bước 2: Cài [Extension C++ cho Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools)
 #### Bước 3: Tải [tại đây](https://github.com/Noboroto/Pre-CPP/archive/refs/heads/master.zip), giải nén
-#### Bước 4: Tạo thư mục chứa code, như trong hình, thư mục của mình có tên CPP, các bạn có thể đặt tên bất kì nhưng **HẠN CHẾ SỬ DỤNG NGÔN NGỮ KHÁC TIẾNG ANH**
+#### Bước 4: Tạo thư mục chứa code, như trong hình, thư mục của mình có tên CPP, các bạn có thể đặt tên bất kì nhưng **HẠN CHẾ SỬ DỤNG NGÔN NGỮ SỬ DỤNG KÝ TỰ NGOÀI BẢNG CHỮ CÁI TIẾNG ANH**
 
 ![06](https://user-images.githubusercontent.com/48942146/135854262-e12047dd-7d0d-4252-86e6-ec69718f3812.png)
 
