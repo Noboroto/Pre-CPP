@@ -14,7 +14,7 @@ Hướng dẫn gồm 12 bước
 
 Cài [TDM-GCC-64 build 10.3.0](https://github.com/jmeubank/tdm-gcc/releases/download/v10.3.0-tdm64-2/tdm64-gcc-10.3.0-2.exe)
 
-Cài [Visual Studio 2015, 2017, 2019, and 2022 x64](https://aka.ms/vs/17/release/vc_redist.x64.exe)
+Cài [Microsoft Visual C++ Redistributable Visual Studio 2015, 2017, 2019, and 2022 x64](https://aka.ms/vs/17/release/vc_redist.x64.exe)
 
 1. Đầu tiên các bạn sẽ thấy màn hình như trong ảnh, bấm nút **Create**:
 
